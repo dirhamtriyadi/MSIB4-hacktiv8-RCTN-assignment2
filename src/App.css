@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  background-color: #dc7000;
+}
+
+.App {
+  /* border: 3px solid green; */
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  height: 100vh;
+  width: 50%;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: large;
+}
